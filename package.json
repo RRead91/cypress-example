@@ -1,0 +1,13 @@
+{
+  "name": "Cypress-Example",
+  "version": "1.0.0",
+  "description": "Example project demonstrating Cypress",
+  "main": "index.js",
+  "author": "Robin Read",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cypress": "^9.6.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
